@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.springframework.cloud.kubernetes.examples","l":"App"},{"p":"org.springframework.cloud.kubernetes.examples","l":"HelloController"}];updateSearchResults();
